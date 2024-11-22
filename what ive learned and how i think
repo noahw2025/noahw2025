@@ -1,0 +1,37 @@
+What ive studied and done:
+Here i will document the things im researching and learning that and the applications ect, I will only document hand written information no copying or plargaizing mianly tryinging to conceptualzie ideas and puts notes in my own words for later review(This means spelling will be terrible)
+
+First ill go over what i initally started exploring and when. of course as a young person who loves sci fi movies ive always loved the idea of ai and as much as it scares me i belive its greater good vs the worse evil, whichever the weights affects more is the direction we'll go. id like to be on the side of doing better, of creating applications to turely improve our life, to increase connectivety not push us away
+i want to apply my knowledge to solve problems within this world that would take years for the jhuman brain, whetehr its small buts gives somone finacial freedom, or big to help companys focus on the things that matter
+
+My entry: I startedwith of course no knowledge, even a year ago i was terrible at coding and to be fair i still struggle, what i feel ive always excelled at was my ability to think outside the box. around april of 2024 i started deep diving into ai, specifically deep learning and transformer based gpt models. i wanted to learn, so i started with apis, trying different tasks, seeing what information i could get or actions i could do
+I think my first thing was a spotify agent you could interact with my the terminal, wait no it was a very bad version of devin AI. essentially i wanted a program that could take a prompt to make code for something, save it locally, run it locally, output the results in the terminal and interact like a chatbot
+to do these things and even reanlyze and fix it e=if it through an eror. i made a version w a bad ui as well but the big problem with this is before aisstants came out is when i finihsed the first main model and had working results i was so pleased. the thing i love about computer science and problem solving expecially is how many different ways ou can look a at it and how satisfying it is when you come up with a olstuion by thinking and not looking up
+i had to be able allow the model to handle intent right, so i pregormammed that into the model ionstructions , which is simple of course but i set it to output a specific word like so #stirke word leavinga intent detecter or wrapper functio within the python script if this was detrected the underlying function would be called,
+The utilization of this is ridiculoisu right. think about how you can apply it, how many functions can be programmed in
+
+ From there i went to add many functions
+Mostly based on a chatbot like interaction
+i think i s=first did the spotify one where you could make playlist with word prompts based on mood ect, then i moved to react maybe, im not sure i worked on making a website builder, similar to the python code runner, but for making files in react, however with multiple other functions the intent handling was very difficult regarding type of fiole output and regex for each
+now i need to go bavck and fix it as i should have the knowledge haha
+Hugging face model usage and training practice, currently working on training model on my voice, and learning how to trade model on stock stuff
+been doing some azure cloud self learning, the vision, sentiment, and all the tools they have buiot in are really coolINSTAGRAM CONT
+INSTAGRAM CONTENT CREATOR - Made a instagram conent creation pipeline that ones fun. take prompt for vid from pexels, take prompt to create script for it w model like gpt 3.5 open source wohooo, take that convert to voice w tts, overlay audio on video for instagram content, need to fix the push to instgram, but it has a push to google cloud function built into it
+also the book creator or the whisper speech revognition and then extracting the necessary info into an excel file with correct headers is preety cool for the data set cretaion apsect,
+Insurance Voice listener, made this using whisper and a ui and then i think bert to extract the relevant info, this one was a pain in the butt cause of the excel extraction and correct headers
+haha my first project was trying to train a model on a personaiity that didnt go so well, i was to uneducated and didnt know what i was doing, looking back it wasnt a waste of time but now i realize the importance of pacing yourself
+
+so projects so Far - GOAL IS TO COMBINE THEM INTO ONE
+Create run save open results analyze and fix locally in pycharm
+react webstITE BUILDER - ALMOST DONE
+Spotify - might be lost
+iNSTAGRAM - W PUSH TO CLOUD
+INSUR VOICE LISTENER
+BOOK CREATOR
+
+
+
+GPU RIG
+HELIUM
+PLANETWATCH
+CHIA
