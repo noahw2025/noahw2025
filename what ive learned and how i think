@@ -28,6 +28,9 @@ Spotify - might be lost
 iNSTAGRAM - W PUSH TO CLOUD
 INSUR VOICE LISTENER
 BOOK CREATOR
+web searcher function
+Also a data scraper and using gpt 3.5 to summarize and give results to questions or topic
+goal was pretty much to learn how to make a better chat gpt in browser
 
 
 
@@ -35,3 +38,56 @@ GPU RIG
 HELIUM
 PLANETWATCH
 CHIA
+
+
+Skills and Expertise
+Programming and Software Development:
+
+Proficient in Python, C, JavaScript, and experience with frameworks like React.
+Strong understanding of cryptography, including hashing algorithms and blockchain concepts.
+Built Ethereum mining rigs, optimized for performance and efficiency.
+Artificial Intelligence and Machine Learning:
+
+Worked on fine-tuning Hugging Face models, including training a voice model.
+Explored chaining neural networks for efficient input/output workflows.
+Developed intent-driven AI assistants and automation for tasks like text-to-image generation, video captioning, and web-based queries.
+Robotics and IoT Projects:
+
+Built and programmed robotic cars using the Elegoo Smart Robot Car Kit V4.0.
+Worked on decentralized IoT networks, such as Helium and Planetwatch, focusing on network optimization and data collection.
+Added advanced functionality like camera integration, speech recognition, and object detection to robotics projects.
+Cloud and Data Integration:
+
+Utilized Azure AI Services for text analytics and language detection.
+Integrated APIs for tasks like automated Instagram video creation and posting.
+Worked on Google Cloud Text-to-Speech for generating and overlaying audio onto video projects.
+Notable Projects
+AI-Based Automation:
+
+Created a system that combines AI models for video and text processing, generating Instagram content with voiceovers and captions.
+Built a GPT-4o-powered assistant to handle coding tasks, search the web, and manage Spotify playlists based on mood and listening patterns.
+Blockchain and Decentralized Systems:
+
+Developed efficient solutions for Ethereum and Chia cryptocurrency systems, gaining insights into Proof of Space and Time and energy-efficient blockchain algorithms.
+Led deployments of IoT-based decentralized networks for data validation and reward distribution.
+Engineering and Leadership:
+
+Interned at Lowe Engineers, analyzing stormwater systems and refining technical processes.
+Chief Information Officer at MICA Clean Air, managing 100+ IoT sensor deployments and providing air quality data analysis.
+Areas of Deep Exploration
+Neural Networks and AI Training:
+
+Learning about fine-tuning smaller AI models with an NVIDIA 3060 GPU.
+Researching how to combine or chain multiple LLMs for intent recognition without creating sub-functions.
+Probability and Statistics:
+
+Focused on understanding and applying statistical formulas for real-world problem-solving.
+Speech and Vision Integration in Robotics:
+
+Explored ways to add echo-based object detection and active video analysis to robotics projects.
+Cloud Computing and APIs:
+
+Implemented cloud-based solutions for training data generation and automation in industries like phone sales and data scraping.
+
+this is what chat gpt thinks ive learned from all the prompts ive put in to be fair the first part is eh true im not really profcient in anything but kinda python and even then, i excel in my ability to brutue force spend time and love the field, allowingme to make what i think are fun projects that teach me
+even hashing im eh even terrible tbh
